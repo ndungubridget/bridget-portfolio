@@ -11,8 +11,7 @@ I enjoy learning new technologies, improving my coding skills, and building prac
 ## Technologies Used
 
 * HTML5
-* CSS3
-* JavaScript
+* CSS
 * Git
 * GitHub
 * Visual Studio Code
@@ -71,7 +70,6 @@ Bridget portfolio/
 │
 ├── index.html
 ├── style.css
-├── script.js
 ├── profile.jpg
 └── README.md
 ```
